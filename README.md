@@ -39,7 +39,7 @@ Fashion_MNIST/
 - Improve accuracy with data augmentation techniques.
 
 ## Contributors
-- **Your Name** - Developer
+- **Your Name** - Sara Elwakeel
 
 ## License
 This project is open-source and available under the MIT License.
